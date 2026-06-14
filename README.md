@@ -1,16 +1,56 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Víctor Daniel Hualpa
 
-<!--
-**victor1997H/victor1997H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software enfocado en desarrollo web.
 
-Here are some ideas to get you started:
+Actualmente trabajo fortaleciendo mis conocimientos en tecnologías como PHP, MySQL y WordPress, participando en proyectos académicos e institucionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+- PHP
+- MySQL
+- WordPress
+- Git y GitHub
+- HTML
+- CSS
+- JavaScript
+- Visual Studio Code
+- Scrum
+
+---
+
+## 📌 Proyectos destacados
+
+### 🍏 Cellfood
+Aplicación orientada a personas con diabetes para la gestión de recetas saludables.
+
+**Tecnologías:** PHP, MySQL, Scrum.
+
+---
+
+### 🎓 Sistema QR Educativo
+Sistema de gestión de contenidos mediante códigos QR vinculados a recursos educativos.
+
+**Tecnologías:** PHP, MySQL.
+
+---
+
+### 🌐 Desarrollo WordPress
+Implementación y personalización de sitios web utilizando WordPress.
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Buenas prácticas de programación.
+- Calidad de software (SQA).
+- Desarrollo backend.
+
+---
+
+## 📫 Contacto
+
+- Workana: (tu enlace)
+- LinkedIn: (tu enlace)
+- Correo: tucorreo@gmail.com
