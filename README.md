@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Víctor Daniel Hualpa
 
-### 💻 Software Developer | Web Developer | Backend & Frontend Enthusiast
+### 💻 Software Developer | Web Developer | Backend & Frontend
 
 ---
 
